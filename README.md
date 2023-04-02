@@ -22,6 +22,9 @@ In a nutshell, the key component to understand an LSTM model is the Cell State (
 
 To control and manage the cell state, an LSTM model contains three gates/layers. It’s worth mentioning that the “gates” here can be treated as filters to let information in (being remembered) or out (being forgotten). 
 
+![Stock-Price-Prediction-project-dashboard-2](https://user-images.githubusercontent.com/48796009/229339469-4f8d3dc2-8c00-438c-97ad-80aaf30cbd5f.gif)
+
+
 * Forget gate: 
 
 ![image](https://user-images.githubusercontent.com/48796009/227760836-a073a267-93d2-455e-9f80-c351aa70b7ac.png)
